@@ -1,3 +1,21 @@
+http://hanyajasa.com | bekabeipa@gmail.com | https://paypal.me/RHidayatSamosir
+
+echo "# NodeJS_WS" >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/ryanbekabe/NodeJS_WS.git
+
+git push -u origin main
+
+----
+
 # ws: a Node.js WebSocket library
 
 [![Version npm](https://img.shields.io/npm/v/ws.svg?logo=npm)](https://www.npmjs.com/package/ws)
